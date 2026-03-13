@@ -1,2 +1,2 @@
-DEVOPS-WORKFLOW PRATICE
-#########This is my practice for Git commands for DevOps practices
+Version Release:
+Version 1.0.0
